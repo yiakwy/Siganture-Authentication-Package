@@ -197,7 +197,7 @@ LOGGING = {
             'class': 'logging.handlers.SMTPHandler',
             'formatter': 'verbose',
             'mailhost': '',
-            'fromaddr': 'info_tracker_notify@weiboyi.com',
+            'fromaddr': 'info_tracker_notify@yiak.co',
             'toaddrs': '',
             'subject': 'Info tracker API ERROR !',
             'credentials': ('', '')
