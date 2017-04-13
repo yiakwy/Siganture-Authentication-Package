@@ -1,0 +1,4 @@
+*.pyc
+sys.log
+ret.out
+doc/*.txt
